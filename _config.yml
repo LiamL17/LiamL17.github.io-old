@@ -48,9 +48,9 @@ linkedin_username: liamlouw
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Liam and I'm a junior full stack developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Liam and I'm a junior full stack developer. I am a passionate developer that is eager to gain as much knowledge as possible. I like a leadership role especially in a fast pace environment. I have interests in full stack development, data science and API development.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Python</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -109,8 +109,8 @@ content:
       - Rugby
       - Gaming
       - Smart home automation and IOT
-      - physics
-      - quantum computing
+      - Physics and advanced math
+      - Quantum computing
 
 # Footer
 footer_show_references: true
