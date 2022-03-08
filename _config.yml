@@ -46,7 +46,7 @@ linkedin_username: liam-louw
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Headshot2.jpeg
+about_profile_image: images/Headshot2.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Liam and I'm a junior full stack developer. I am a passionate developer that is eager to gain as much knowledge as possible. I like a leadership role especially in a fast pace environment. I have interests in full stack development, data science and API development.
 
