@@ -22,7 +22,7 @@ stackoverflow_username: "7010229"
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: liamlouw
+linkedin_username: liam-louw
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -46,7 +46,7 @@ linkedin_username: liamlouw
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Headshot.jpeg
+about_profile_image: images/Headshot2.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Liam and I'm a junior full stack developer. I am a passionate developer that is eager to gain as much knowledge as possible. I like a leadership role especially in a fast pace environment. I have interests in full stack development, data science and API development.
 
